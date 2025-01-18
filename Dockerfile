@@ -20,4 +20,4 @@ RUN npm run build
 EXPOSE 3000
 
 # Comando para rodar o frontend
-CMD ["npm", "start"]
+CMD ["npm", "run", "dev"]
